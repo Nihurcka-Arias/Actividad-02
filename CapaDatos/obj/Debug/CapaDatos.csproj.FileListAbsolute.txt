@@ -1,0 +1,18 @@
+D:\VisualStudio2022\PedidosApp1\CapaDatos\bin\Debug\CapaDatos.dll
+D:\VisualStudio2022\PedidosApp1\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\VisualStudio2022\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\VisualStudio2022\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.dll
+D:\VisualStudio2022\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pablo\source\repos\PedidosApp1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pablo\source\repos\PedidosApp1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pablo\source\repos\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pablo\source\repos\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\UPDS\Ingeniería de Software II\PedidosApp1\PedidosApp1\CapaDatos\bin\Debug\CapaDatos.dll
+D:\UPDS\Ingeniería de Software II\PedidosApp1\PedidosApp1\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\UPDS\Ingeniería de Software II\PedidosApp1\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\UPDS\Ingeniería de Software II\PedidosApp1\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\UPDS\Ingeniería de Software II\PedidosApp1\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.dll
+D:\UPDS\Ingeniería de Software II\PedidosApp1\PedidosApp1\CapaDatos\obj\Debug\CapaDatos.pdb
