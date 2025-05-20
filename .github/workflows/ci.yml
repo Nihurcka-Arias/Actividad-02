@@ -1,0 +1,27 @@
+name: CI - Windows Forms Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout del código
+      uses: actions/checkout@v3
+
+    - name: Instalar MSBuild
+      uses: microsoft/setup-msbuild@v1.3.1
+
+    - name: Instalar NuGet
+      uses: NuGet/setup-nuget@v1.2.0
+
+    - name: Restaurar paquetes NuGet
+      run: nuget restore PedidosApp1.sln
+
+    - name: Compilar solución
+      run: msbuild PedidosApp1.sln /p:Configuration=Release
